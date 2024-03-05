@@ -6,3 +6,7 @@ void funtion2()
 {
 
 }
+void funtion3()
+{
+
+}
